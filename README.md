@@ -1,3 +1,12 @@
+# Covid-19 Tracker app
+
+#### _Take a look:_
+
+![clone image](https://github.com/husain-amjhera/covid-19-tracker/blob/master/images/covid-19-tracker.PNG?raw=true)
+
+#### _Try it Live:_
+
+[CLICK HERE](https://covid-19-tracker-3c3ed.web.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
